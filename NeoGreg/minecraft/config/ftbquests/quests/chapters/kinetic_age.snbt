@@ -1,0 +1,548 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "kinetic_age"
+	group: "693226878D58638A"
+	icon: "create:precision_mechanism"
+	id: "0FB5D00DCC59C0D0"
+	order_index: 1
+	quest_links: [{
+		id: "583838F94D857639"
+		linked_quest: "7E011AD8BF25EAFF"
+		x: -2.0d
+		y: -1.5d
+	}]
+	quests: [
+		{
+			dependencies: ["3C23D04261E94FC7"]
+			description: [
+				"Now that you've made it to some basic metal tools, you can start working on create contraptions! The first ingredient for all of those is andesite alloy, as it lets you make pretty much everything else."
+				""
+				"Right now the best you can do is the manual recipe with nuggets and andesite, but later on you'll get a more efficient recipe in a mechanical mixer."
+			]
+			id: "1B09ABB4A5E9F305"
+			shape: "gear"
+			size: 1.5d
+			subtitle: "Just in case you thought the steam age was primitive"
+			tasks: [{
+				id: "6D176865D4BC255F"
+				item: "create:andesite_alloy"
+				type: "item"
+			}]
+			title: "Kinetic age!"
+			x: -1.9196428571428612d
+			y: -2.9821428571428577d
+		}
+		{
+			dependencies: ["1B09ABB4A5E9F305"]
+			description: ["If you are unsure how these work, you should probably take a look at some create tutorials online."]
+			id: "6FB63974F0CDE00C"
+			subtitle: "Spin those wheels!"
+			tasks: [
+				{
+					id: "35B6B3E6006F4EA9"
+					item: "create:cogwheel"
+					type: "item"
+				}
+				{
+					id: "620910476696FBD7"
+					item: "create:large_cogwheel"
+					type: "item"
+				}
+				{
+					id: "75BDA03158B07BD6"
+					item: "create:shaft"
+					type: "item"
+				}
+			]
+			title: "Some parts you'll need everywhere"
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1B09ABB4A5E9F305"]
+			description: [
+				"In this pack, you can make brass right away! Use a mortar (or something else) to grind down some copper and zinc, then mix them in a crafting table and smelt the brass dust."
+				""
+				"You'll need a little bit of this for progression and create machines."
+			]
+			id: "4F59824E605DCC8C"
+			shape: "gear"
+			subtitle: "The secret second starting point"
+			tasks: [{
+				id: "1464A7F838A46D6D"
+				item: "create:brass_ingot"
+				type: "item"
+			}]
+			title: "Brass?.."
+			x: 2.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["4AE5A00B6C2987DE"]
+			description: [
+				"The millstone can grind down most ingots into dust, and doesn't cost you any tool durability!"
+				""
+				"Millstones and crushing wheels are a good alternative for ingot crushing, as they're fast and inexpensive, but lategame gregtech stuff can get much faster."
+			]
+			id: "6C3F5AB5E2270798"
+			subtitle: "Throw away those mortars!"
+			tasks: [{
+				id: "24CBAA275697898B"
+				item: "create:millstone"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6FB63974F0CDE00C"]
+			description: ["Did you know that you can right click this on shafts and cogs to encase them?"]
+			id: "4AE5A00B6C2987DE"
+			subtitle: "It's an intermediate!"
+			tasks: [{
+				id: "4E0D5FFBE30E4836"
+				item: "create:andesite_casing"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4F59824E605DCC8C"]
+			id: "49DEE475F521677B"
+			subtitle: "Also an intermediate!"
+			tasks: [{
+				id: "1DA0A840EE97DF30"
+				item: "create:brass_casing"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4AE5A00B6C2987DE"]
+			description: ["This essentially doubles your yield of andesite alloy, which is always nice."]
+			id: "001557BAC52173A6"
+			subtitle: "A better way to make andesite alloy!"
+			tasks: [{
+				id: "4166A30C9639572F"
+				item: "create:mechanical_mixer"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4AE5A00B6C2987DE"]
+			description: ["One of these might just carry you all the way to the steam age!"]
+			id: "79349672B5C08F8A"
+			subtitle: "Obviously the best choice"
+			tasks: [{
+				id: "5D5D51E8947744A9"
+				item: "create:windmill_bearing"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6FB63974F0CDE00C"]
+			description: ["I would advise against making these, but water wheels are relatively cheap and easy to set up!"]
+			id: "1C9B2E59F674A2BF"
+			subtitle: "These suck"
+			tasks: [{
+				id: "604E80BEEB282276"
+				item: "create:water_wheel"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"4AE5A00B6C2987DE"
+				"49DEE475F521677B"
+			]
+			description: ["The mechanical crafter recipe is changed to use a cog instead of a vacuum tube. You'll need these!"]
+			id: "6C3F49E77B478E3A"
+			subtitle: "Slightly easier for your convenience"
+			tasks: [{
+				id: "5D490AE84BD69D53"
+				item: "create:mechanical_crafter"
+				type: "item"
+			}]
+			title: "What?! A crafter, already?!"
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1B09ABB4A5E9F305"]
+			description: [
+				"There are some notable changes to create recipes in this pack. Namely:"
+				"- Electron tubes can be substituted by any ULV circuit."
+				"- Dried kelp can be substituted by any rubber sheet."
+				"- There is an assembler recipe for precision mechanisms, in case you'll need those later."
+			]
+			id: "4FBDA488D826BDE3"
+			subtitle: "Wow, proper gregtech integration!"
+			tasks: [{
+				id: "6DD77929BB8AE2B1"
+				title: "Create QOL"
+				type: "checkmark"
+			}]
+			x: -3.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6C3F49E77B478E3A"]
+			description: [
+				"These are required for progression, but you should definitely use them for ore processing."
+				""
+				"Already, these can significantly increase your ore yield, though this effect is much less potent than that of a gregtech machine (the first crushing step gives you a 20% chance at an extra ore, while a macerator is guaranteed to give you double output)."
+				""
+				"Also, you'll get free experience for using these! What a deal!"
+			]
+			id: "4F70C55B3B3D4AA1"
+			subtitle: "The better millstone!"
+			tasks: [{
+				count: 2L
+				id: "7796067E69625842"
+				item: { Count: 2, id: "create:crushing_wheel" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4AE5A00B6C2987DE"]
+			description: [
+				"When blowing through certain blocks, these can perform some recipes on items."
+				""
+				"- Lava will let these smelt items in bulk! Works with anything you can smelt in a vanilla blast furnace. Time to make a ton of wrought iron!"
+				"- Fire will let you cook things in bulk! Putting food under lava will just void it, sorry."
+				"- Water will let you wash things in bulk! This doesn't give you any gregtech byproducts, but can be useful in some cases."
+				"- Soulfire will let you haunt stuff! There isn't much use for it, though."
+			]
+			id: "0C1B1877D7B83B14"
+			subtitle: "Multi smelter before a multi smelter!"
+			tasks: [{
+				id: "059BFEF7E4933033"
+				item: "create:encased_fan"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4F70C55B3B3D4AA1"]
+			description: ["You can't go to the nether yet. You can, however, get nether quartz by crushing diorite instead."]
+			id: "73087B16613E6B61"
+			subtitle: "How did this get here?.."
+			tasks: [{
+				id: "2230721480A9245F"
+				item: "minecraft:quartz"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["73087B16613E6B61"]
+			description: ["You can now make these! They take quite a lot of redstone."]
+			id: "22739E2DDB43C398"
+			subtitle: "Technically a circuit?"
+			tasks: [{
+				id: "3B6040688AEFCF8E"
+				item: "create:electron_tube"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"22739E2DDB43C398"
+				"4F59824E605DCC8C"
+			]
+			description: [
+				"Finally, some deployers! You might want to invest in a mining machine, or a tree farm."
+				""
+				"PSA: Your game might crash if you give a deployer an item. If that happens, try turning off shaders, or temporarily disabling the flywheel/oculus compat mod before you try it again. You probably won't be using deployers a lot, so don't worry about having to deal with the lag (or lack of eye candy) for your whole playthrough."
+			]
+			id: "77381DCDF4EEF124"
+			subtitle: "Probably the most primitive assembler"
+			tasks: [{
+				id: "4F91B81668F5A7B9"
+				item: "create:deployer"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["77381DCDF4EEF124"]
+			description: ["You will need these to make steam age machines, as well as a bunch of lategame create stuff. Thankfully they aren't all that expensive, just a little weird to produce."]
+			id: "24346D0AB4CAB6FE"
+			shape: "gear"
+			subtitle: "A mechanical circuit!"
+			tasks: [{
+				id: "766747034784AADB"
+				item: "create:precision_mechanism"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"24346D0AB4CAB6FE"
+				"4A469927E9371F58"
+			]
+			dependency_requirement: "one_completed"
+			description: [
+				"The recipe is expensive, but you probably shouldn't be using it a lot anyways. If you want more burners, you should consider hitting up the nether in the steam age!"
+				""
+				"You can get some netherrack by mixing up some cinder flour, and then mixing that with cobblestone and lava, or from ruined portals you can find around the overworld."
+			]
+			id: "0CAEE50678CFA1FC"
+			subtitle: "How are these craftable?.."
+			tasks: [{
+				id: "6A4FFBD58A318DC6"
+				item: "create:blaze_burner"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"0CAEE50678CFA1FC"
+				"001557BAC52173A6"
+			]
+			description: [
+				"Industrial-grade bronze that needs some special conditions to be prepared, namely higher heat than that of a furnace. A mixer with a specialized heater will do for now."
+				""
+				"This alloy is capable of handling water without corroding - perfect for steam machines!"
+			]
+			id: "1A173BBD0B82A653"
+			shape: "gear"
+			size: 1.5d
+			subtitle: "Finally!"
+			tasks: [{
+				id: "46E9FD6429E02D93"
+				item: "gtceu:bronze_ingot"
+				type: "item"
+			}]
+			x: 5.517857142857139d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"24346D0AB4CAB6FE"
+				"00238AE3E2414E91"
+			]
+			description: [
+				"Technically, you could've made a pipe pistol a lot earlier, but that would still require you to make ammo, which needs a deployer."
+				""
+				"Now, you can make all the create armory guns! While all of those are craftable right now, it's perfectly valid to just wait until you get an assembler and a canner so that ammo production is a lot easier."
+				""
+				"{@pagebreak}"
+				"Pro tip: the Barret will give you the most bang for your buck when it comes to ammo production. It one-shots almost anything, too!"
+			]
+			icon: "createarmory:upgraded_mini_gun"
+			id: "1B45CC89F68746DC"
+			subtitle: "Because every tech mod needs guns."
+			tasks: [{
+				id: "4E531C78F98DB24A"
+				title: "Any more boolets?"
+				type: "checkmark"
+			}]
+			title: "Guns!"
+			x: 7.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0CAEE50678CFA1FC"]
+			description: ["Steam engines are a wonderful alternative to your other SU production, as these can make TONS of power. Their drawback is that they take fuel to run any faster than the absolute minimum, but you can just automate some logs for that. Or, maybe, you can steal some charcoal from your benzene plant later on, if you choose to make one!"]
+			id: "00A6B1C7C2E0E199"
+			subtitle: "Chugga-chugga-choo-choo!"
+			tasks: [{
+				id: "09A507CC3F3A2255"
+				item: "create:steam_engine"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6C3F5AB5E2270798"]
+			description: [
+				"With the help of a grindstone, you can get yourself a better ratio for bread. It's a rather good earlygame food source."
+				""
+				"Also, you can make slimeballs with this! Useful for superglue that you might need for your contraptions."
+			]
+			id: "4E20CD74B8CE1C8B"
+			subtitle: "Better bread!"
+			tasks: [{
+				id: "35EC2FCC0EBED987"
+				item: "create:dough"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"4636705210A3567B"
+				"001557BAC52173A6"
+			]
+			description: ["Mix cobblestone, lava and cinder flour to get yourself some netherrack. You'll probably only need one of this for now, but the option is there if you want to make a ton."]
+			id: "4A469927E9371F58"
+			optional: true
+			subtitle: "Netherless nether!"
+			tasks: [{
+				id: "320C56315FA94338"
+				item: "minecraft:netherrack"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["001557BAC52173A6"]
+			description: ["Mix coal, gold and redstone to get cinder flour. This will be useful to make netherrack, in case you can't find a ruined portal."]
+			id: "4636705210A3567B"
+			optional: true
+			tasks: [{
+				id: "2E9083C0710975B1"
+				item: "create:cinder_flour"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1A173BBD0B82A653"]
+			description: [
+				"Unfortunately, this thing can no longer make easy plates for you. Use gregtech machines instead if you want better ratios!"
+				""
+				"This also unlocks a cheap and easy paper recipe."
+			]
+			id: "00238AE3E2414E91"
+			subtitle: "Finally!!"
+			tasks: [{
+				id: "20D299BE8E96D326"
+				item: "create:mechanical_press"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["00238AE3E2414E91"]
+			description: ["You can now make Create trains! Use these if you want to make your factory look amazing... They don't have any other advantages over wireless logistics stuff you'll get in EV."]
+			id: "623198275D0B8F20"
+			subtitle: "Useless, but fun!"
+			tasks: [{
+				id: "143DEDA904897F19"
+				item: "create:railway_casing"
+				type: "item"
+			}]
+			x: 7.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1B09ABB4A5E9F305"]
+			description: ["This works as a base for fluid related contraptions."]
+			id: "2F3077306C7CBACD"
+			subtitle: "For all of your liquid needs!"
+			tasks: [{
+				id: "59C1A1378CC9E057"
+				item: "create:copper_casing"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["2F3077306C7CBACD"]
+			description: ["This isn't used for much, but you can use the spout to automatically fill buckets, or get some better food options if you're willing to farm chocolate or milk."]
+			id: "4F1812F8D7B392E0"
+			subtitle: "Sploosh!"
+			tasks: [{
+				id: "4B9376C338BFD71F"
+				item: "create:spout"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["4AE5A00B6C2987DE"]
+			description: ["This thing can convert one log into 6 planks. Handy!"]
+			id: "5F8304C378D93B89"
+			subtitle: "More wood!"
+			tasks: [{
+				id: "03840252D675119D"
+				item: "create:mechanical_saw"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["4F59824E605DCC8C"]
+			description: ["This pack includes a way to put your fan stuff into a more compact and convenient space. Just make one of these and use one of the items on it - a water bucket, a lava bucket, netherrack or soul sand. It will turn into the corresponding catalyst, which doesn't set your wooden home on fire."]
+			id: "6AD5FF22FDC3CC51"
+			subtitle: "No more fires!"
+			tasks: [{
+				id: "2F15F0CAFF394C75"
+				item: "create_connected:empty_fan_catalyst"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["00238AE3E2414E91"]
+			description: ["If you so wish, you can craft a drawer controller now, along with some drawers."]
+			id: "50A2FD1961D3A804"
+			tasks: [{
+				id: "2DBB7D027C6965EE"
+				item: "storagedrawers:controller"
+				type: "item"
+			}]
+			title: "Drawers! Drawers! Drawers!"
+			x: 7.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1B09ABB4A5E9F305"]
+			description: [
+				"Having problems with inventory clutter and stacking a bunch of chests next to a crafting station isn't cutting it anymore? Try Create's storage system! It's rather clunky, but is capable of providing modular storage, as well as autocrafting."
+				""
+				"Unfortunately, explaining how it works is out of scope for this questbook. Check out the ponder screens, or maybe a guide online!"
+			]
+			id: "68E8847CC5D7468F"
+			subtitle: "Wait a minute..."
+			tasks: [
+				{
+					id: "36173BAD609ACCAD"
+					item: "create:stock_link"
+					type: "item"
+				}
+				{
+					id: "79249A11AB6ABE18"
+					item: "create:stock_ticker"
+					type: "item"
+				}
+			]
+			title: "Applying energistics"
+			x: -3.5d
+			y: -3.0d
+		}
+	]
+	subtitle: ["Create your first machines"]
+	title: "Kinetic Age"
+}

@@ -1,0 +1,63 @@
+{
+    "globalBookmarks": {
+        "armorer": [],
+        "butcher": [],
+        "cartographer": [],
+        "cleric": [],
+        "farmer": [],
+        "fisherman": [],
+        "fletcher": [],
+        "leatherworker": [],
+        "librarian": [],
+        "mason": [],
+        "shepherd": [],
+        "toolsmith": [],
+        "weaponsmith": [],
+        "nitwit": [],
+        "none": [],
+        "___+++___ wandering ___+++___": [
+            {
+                "resultItem": "minecraft:diamond_boots",
+                "priceItem1": "minecraft:diamond_boots",
+                "priceItem2": "minecraft:emerald",
+                "resultItemNBT": "{Damage:0,Enchantments:[{id:\"minecraft:protection\",lvl:5b},{id:\"minecraft:mending\",lvl:1b},{id:\"minecraft:unbreaking\",lvl:5b},{id:\"apotheosis:stable_footing\",lvl:1b},{id:\"minecraft:feather_falling\",lvl:5b}],display:{Name:'{\"translate\":\"name.apotheosis.merch_boots\", \"italic\": false, \"color\": \"#1ABBE0\"}'}}"
+            }
+        ]
+    },
+    "globalBookmarks1": {
+        "armorer": [],
+        "butcher": [],
+        "cartographer": [],
+        "cleric": [],
+        "farmer": [],
+        "fisherman": [],
+        "fletcher": [],
+        "leatherworker": [],
+        "librarian": [],
+        "mason": [],
+        "shepherd": [],
+        "toolsmith": [],
+        "weaponsmith": [],
+        "nitwit": [],
+        "none": [],
+        "___+++___ wandering ___+++___": []
+    },
+    "globalBookmarks2": {
+        "armorer": [],
+        "butcher": [],
+        "cartographer": [],
+        "cleric": [],
+        "farmer": [],
+        "fisherman": [],
+        "fletcher": [],
+        "leatherworker": [],
+        "librarian": [],
+        "mason": [],
+        "shepherd": [],
+        "toolsmith": [],
+        "weaponsmith": [],
+        "nitwit": [],
+        "none": [],
+        "___+++___ wandering ___+++___": []
+    }
+}

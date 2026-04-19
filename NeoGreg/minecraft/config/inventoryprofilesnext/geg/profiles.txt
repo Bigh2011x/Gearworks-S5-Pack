@@ -1,0 +1,32 @@
+
+
+
+
+profile Saved activate HOT6
+	HOT1
+		"gtceu:naquadah_alloy_sword" -> "Enchantments" : [{id:"minecraft:sharpness",lvl:7},{id:"minecraft:unbreaking",lvl:5},{id:"minecraft:mending",lvl:1},{id:"minecraft:looting",lvl:4}]
+	HOT2
+		"gtceu:iv_naquadah_alloy_drill"
+	HOT3
+		"gtceu:lv_naquadah_alloy_chainsaw" -> "Enchantments" : [{id:"minecraft:efficiency",lvl:7}]
+	HOT4
+		"gtceu:iv_naquadah_alloy_wrench" -> "Enchantments" : [{id:"minecraft:efficiency",lvl:7}]
+	HOT5
+		"gtceu:naquadah_alloy_wire_cutter" -> "Enchantments" : [{id:"minecraft:efficiency",lvl:7}]
+	HOT7
+		"gtceu:prospector.luv"
+	HOT8
+		"createarmory:barret"
+	HOT9
+		"travelanchors:travel_staff"
+	OFFHAND
+		"minecraft:shield"
+	HEAD
+		"gtceu:quarktech_helmet" -> "Enchantments" : [{id:"minecraft:blast_protection",lvl:4},{id:"minecraft:protection",lvl:3},{id:"minecraft:aqua_affinity",lvl:1},{id:"ad_astra_giselle_addon:space_breathing",lvl:1}]
+	CHEST
+		"gtceu:avanced_nanomuscle_chestplate" -> "Enchantments" : [{id:"apotheosis:rebounding",lvl:1},{id:"minecraft:blast_protection",lvl:4},{id:"minecraft:protection",lvl:3},{id:"ad_astra_giselle_addon:space_fire_proof",lvl:1},{id:"ad_astra_giselle_addon:acid_rain_proof",lvl:1}]
+	LEGS
+		"gtceu:quarktech_leggings" -> "Enchantments" : [{id:"apotheosis:rebounding",lvl:1},{id:"minecraft:protection",lvl:3},{id:"minecraft:fire_protection",lvl:3}]
+	FEET
+		"gtceu:quarktech_boots" -> "Enchantments" : [{id:"minecraft:feather_falling",lvl:4},{id:"minecraft:blast_protection",lvl:3},{id:"minecraft:protection",lvl:3}]
+

@@ -1,0 +1,25 @@
+filename = 'createarmoryv0.6.1n.jar'
+name = 'Create : Armory'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Create Armory V0.6.1n'
+
+[download]
+hash = 'a87808cb03f05e4759d060190f2d8edb26e16d53'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4936656
+project-id = 845950
+
+[[x-prismlauncher-dependencies]]
+addonId = '388172'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '328085'
+type = 'REQUIRED'
