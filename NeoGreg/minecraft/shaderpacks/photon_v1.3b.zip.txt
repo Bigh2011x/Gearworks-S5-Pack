@@ -1,0 +1,5 @@
+#Sun Apr 19 13:20:34 BST 2026
+shadowMapResolution=1024
+PIXELATED_SHADOWS=true
+DOF=true
+GALAXY=true

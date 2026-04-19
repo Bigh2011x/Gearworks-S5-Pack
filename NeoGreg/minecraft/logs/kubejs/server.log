@@ -1,79 +1,79 @@
-[10:38:00] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[10:38:00] [INIT] Loaded plugins:
-[10:38:00] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[10:38:00] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[10:38:00] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
-[10:38:00] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[10:38:00] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[10:38:00] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[10:38:00] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
-[10:38:00] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
-[10:38:00] [INIT] - committee.nova.mods.avaritia.init.compat.kubejs.KubeJSAvaritiaPlugin
-[10:38:00] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[10:38:00] [INFO] Loaded script server_scripts:torchmaster.js in 0.001 s
-[10:38:00] [INFO] Loaded script server_scripts:gregtech/temporary_fixes.js in 0.0 s
-[10:38:00] [INFO] Loaded script server_scripts:gregtech/components.js in 0.001 s
-[10:38:00] [INFO] Loaded script server_scripts:gregtech/machines.js in 0.0 s
-[10:38:00] [INFO] Loaded script server_scripts:gregtech/wood_unification.js in 0.002 s
-[10:38:00] [INFO] Loaded script server_scripts:gregtech/inscriber.js in 0.0 s
-[10:38:00] [INFO] Loaded script server_scripts:gregtech/greenhouse.js in 0.001 s
-[10:38:00] [INFO] Loaded script server_scripts:appliedenergistics2/circuitry.js in 0.001 s
-[10:38:00] [INFO] Loaded script server_scripts:appliedenergistics2/terminals.js in 0.001 s
-[10:38:00] [INFO] Loaded script server_scripts:appliedenergistics2/certus_quartz.js in 0.001 s
-[10:38:00] [INFO] Loaded script server_scripts:appliedenergistics2/portable_cells.js in 0.0 s
-[10:38:00] [INFO] Loaded script server_scripts:appliedenergistics2/extendedae2.js in 0.001 s
-[10:38:00] [INFO] Loaded script server_scripts:appliedenergistics2/cards.js in 0.0 s
-[10:38:00] [INFO] Loaded script server_scripts:appliedenergistics2/molecular_assemblers.js in 0.0 s
-[10:38:00] [INFO] Loaded script server_scripts:appliedenergistics2/ae2.js in 0.004 s
-[10:38:00] [INFO] Loaded script server_scripts:appliedenergistics2/cells.js in 0.001 s
-[10:38:00] [INFO] Loaded script server_scripts:appliedenergistics2/inter_providers.js in 0.001 s
-[10:38:00] [INFO] Loaded script server_scripts:appliedenergistics2/removals.js in 0.001 s
-[10:38:00] [INFO] Loaded script server_scripts:appliedenergistics2/patterns.js in 0.0 s
-[10:38:00] [INFO] Loaded script server_scripts:appliedenergistics2/cables.js in 0.002 s
-[10:38:00] [INFO] Loaded script server_scripts:appliedenergistics2/storage_parts.js in 0.001 s
-[10:38:00] [INFO] Loaded script server_scripts:appliedenergistics2/pressing.js in 0.001 s
-[10:38:00] [INFO] Loaded script server_scripts:appliedenergistics2/crafting_storage.js in 0.0 s
-[10:38:00] [INFO] Loaded script server_scripts:Create Recipes/greg.js in 0.003 s
-[10:38:00] [INFO] Loaded script server_scripts:Create Recipes/create_ore_processing.js in 0.001 s
-[10:38:00] [INFO] Loaded script server_scripts:storage_drawers/drawers.js in 0.002 s
-[10:38:00] [INFO] Loaded script server_scripts:storage_drawers/upgrades.js in 0.001 s
-[10:38:00] [INFO] Loaded script server_scripts:elden_ring.js in 0.001 s
-[10:38:00] [INFO] Loaded script server_scripts:open_blocks/elevator.js in 0.001 s
-[10:38:00] [INFO] Loaded script server_scripts:open_blocks/magnets.js in 0.0 s
-[10:38:00] [INFO] Loaded script server_scripts:open_blocks/hang_glider.js in 0.001 s
-[10:38:00] [INFO] Loaded script server_scripts:vein_modification.js in 0.016 s
-[10:38:00] [INFO] Loaded script server_scripts:tool_belt/recipes.js in 0.001 s
-[10:38:01] [INFO] Loaded script server_scripts:sophisticated_backpacks/upgrades.js in 0.002 s
-[10:38:01] [INFO] Loaded script server_scripts:sophisticated_backpacks/backpacks.js in 0.001 s
-[10:38:01] [INFO] Loaded script server_scripts:building_gadgets/gadgets.js in 0.0 s
-[10:38:01] [INFO] Loaded script server_scripts:kubejs_edits_custom.js in 0.006 s
-[10:38:01] [INFO] Loaded script server_scripts:vanilla/mob_drops.js in 0.001 s
-[10:38:01] [INFO] Loaded script server_scripts:vanilla/loot_drops.js in 0.0 s
-[10:38:01] [INFO] Loaded script server_scripts:charcoal.js in 0.0 s
-[10:38:01] [INFO] Loaded script server_scripts:architects_palette.js in 0.002 s
-[10:38:01] [INFO] Loaded script server_scripts:crafting_station/recipes.js in 0.0 s
-[10:38:01] [INFO] Loaded script server_scripts:recipe_removals.js in 0.0 s
-[10:38:01] [INFO] Loaded script server_scripts:xtones.js in 0.001 s
-[10:38:01] [INFO] Loaded script server_scripts:tags/items.js in 0.0 s
-[10:38:01] [INFO] Loaded script server_scripts:tags/ae2.js in 0.0 s
-[10:38:01] [INFO] Loaded script server_scripts:tags/blocks.js in 0.0 s
-[10:38:01] [INFO] Loaded script server_scripts:tags/gregtech.js in 0.0 s
-[10:38:01] [INFO] Loaded 48/48 KubeJS server scripts in 0.082 s with 0 errors and 0 warnings
-[10:38:01] [INFO] Scripts loaded
-[10:38:01] [INFO] Initializing recipe event...
-[10:38:02] [INFO] [minecraft:fluid] Found 481 tags, added 4 objects, removed 5 objects
-[10:38:02] [INFO] [minecraft:item] Found 4703 tags, added 24 objects, removed 5 objects
-[10:38:07] [INFO] Processing recipes...
-[10:38:07] [INFO] Found 49565 recipes in 855.3 ms
-[10:38:08] [ERROR] ! elden_ring.js#4: Failed to create recipe for type 'kubejs:shaped': ItemStack 'result' can't be empty!
-[10:38:08] [ERROR] ! elden_ring.js#10: Failed to create recipe for type 'kubejs:shaped': ItemStack 'result' can't be empty!
-[10:38:08] [ERROR] ! elden_ring.js#17: Failed to create recipe for type 'kubejs:shaped': ItemStack 'result' can't be empty!
-[10:38:09] [INFO] Posted recipe events in 1.321 s
-[10:38:09] [WARN] Error parsing recipe create:kjs/b913epj5q9h33npb4c4x3gxy7[create:milling]: {"type":"create:milling","results":[{"fluid":"gtceu:rose_quartz_dust","amount":1000}],"ingredients":[{"tag":"forge:gems/rose_quartz"}],"processingTime":100}: Invalid empty fluid 'gtceu:rose_quartz_dust'
-[10:38:09] [WARN] Error parsing recipe create:kjs/8q075j0imtpwdkzcyt6ejpgqo[create:milling]: {"type":"create:milling","results":[{"fluid":"minecraft:4x","amount":1000}],"ingredients":[{"fluid":"minecraft:empty","nbt":{},"amount":0}],"processingTime":100}: Invalid empty fluid 'minecraft:empty'
-[10:38:09] [WARN] Error parsing recipe gtceu:forming_press/printed_calculation_circuit[gtceu:forming_press]: {"type":"gtceu:forming_press","inputs":{"item":[{"content":{"type":"gtceu:sized","count":1,"ingredient":{"tag":"forge:plates/certus_quartz"}},"chance":10000,"maxChance":10000,"tierChanceBoost":0},{"content":{"type":"gtceu:sized","count":1,"ingredient":{"item":"ae2:calculation_processor_press"}},"chance":0,"maxChance":10000,"tierChanceBoost":0}]},"outputs":{"item":[{"content":{"type":"gtceu:sized","count":1,"ingredient":{"item":"ae2:printed_calculation_processor"}},"chance":10000,"maxChance":10000,"tierChanceBoost":0}]}}: No key duration in MapLike[{"type":"gtceu:forming_press","inputs":{"item":[{"content":{"type":"gtceu:sized","count":1,"ingredient":{"tag":"forge:plates/certus_quartz"}},"chance":10000,"maxChance":10000,"tierChanceBoost":0},{"content":{"type":"gtceu:sized","count":1,"ingredient":{"item":"ae2:calculation_processor_press"}},"chance":0,"maxChance":10000,"tierChanceBoost":0}]},"outputs":{"item":[{"content":{"type":"gtceu:sized","count":1,"ingredient":{"item":"ae2:printed_calculation_processor"}},"chance":10000,"maxChance":10000,"tierChanceBoost":0}]}}]
-[10:38:09] [WARN] Error parsing recipe create:kjs/882hr2v7ng0nv9d87gmud1d8n[create:milling]: {"type":"create:milling","results":[{"fluid":"minecraft:2x","amount":1000}],"ingredients":[{"fluid":"minecraft:empty","nbt":{},"amount":0}],"processingTime":100}: Invalid empty fluid 'minecraft:empty'
-[10:38:09] [WARN] Error parsing recipe minecraft:kjs/gtceu_lv_item_magnet[kubejs:shapeless]: {"type":"minecraft:crafting_shapeless","result":{"item":"gtceu:lv_item_magnet","count":1},"ingredients":[[]]}: Item array cannot be empty, at least one item must be defined
-[10:38:09] [WARN] Error parsing recipe minecraft:kjs/gtceu_hv_item_magnet[kubejs:shapeless]: {"type":"minecraft:crafting_shapeless","result":{"item":"gtceu:hv_item_magnet","count":1},"ingredients":[[]]}: Item array cannot be empty, at least one item must be defined
-[10:38:10] [INFO] Added 1313 recipes, removed 885 recipes, modified 173 recipes, with 9 failed recipes in 1.167 s
-[10:38:11] [INFO] Server resource reload complete!
+[11:14:50] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[11:14:50] [INIT] Loaded plugins:
+[11:14:50] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[11:14:50] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[11:14:50] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[11:14:50] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[11:14:50] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[11:14:50] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[11:14:50] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[11:14:50] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[11:14:50] [INIT] - committee.nova.mods.avaritia.init.compat.kubejs.KubeJSAvaritiaPlugin
+[11:14:50] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[11:14:51] [INFO] Loaded script server_scripts:torchmaster.js in 0.001 s
+[11:14:51] [INFO] Loaded script server_scripts:gregtech/temporary_fixes.js in 0.0 s
+[11:14:51] [INFO] Loaded script server_scripts:gregtech/components.js in 0.001 s
+[11:14:51] [INFO] Loaded script server_scripts:gregtech/machines.js in 0.0 s
+[11:14:51] [INFO] Loaded script server_scripts:gregtech/wood_unification.js in 0.0 s
+[11:14:51] [INFO] Loaded script server_scripts:gregtech/inscriber.js in 0.0 s
+[11:14:51] [INFO] Loaded script server_scripts:gregtech/greenhouse.js in 0.001 s
+[11:14:51] [INFO] Loaded script server_scripts:appliedenergistics2/circuitry.js in 0.0 s
+[11:14:51] [INFO] Loaded script server_scripts:appliedenergistics2/terminals.js in 0.0 s
+[11:14:51] [INFO] Loaded script server_scripts:appliedenergistics2/certus_quartz.js in 0.0 s
+[11:14:51] [INFO] Loaded script server_scripts:appliedenergistics2/portable_cells.js in 0.0 s
+[11:14:51] [INFO] Loaded script server_scripts:appliedenergistics2/extendedae2.js in 0.0 s
+[11:14:51] [INFO] Loaded script server_scripts:appliedenergistics2/cards.js in 0.0 s
+[11:14:51] [INFO] Loaded script server_scripts:appliedenergistics2/molecular_assemblers.js in 0.0 s
+[11:14:51] [INFO] Loaded script server_scripts:appliedenergistics2/ae2.js in 0.0 s
+[11:14:51] [INFO] Loaded script server_scripts:appliedenergistics2/cells.js in 0.001 s
+[11:14:51] [INFO] Loaded script server_scripts:appliedenergistics2/inter_providers.js in 0.0 s
+[11:14:51] [INFO] Loaded script server_scripts:appliedenergistics2/removals.js in 0.0 s
+[11:14:51] [INFO] Loaded script server_scripts:appliedenergistics2/patterns.js in 0.001 s
+[11:14:51] [INFO] Loaded script server_scripts:appliedenergistics2/cables.js in 0.0 s
+[11:14:51] [INFO] Loaded script server_scripts:appliedenergistics2/storage_parts.js in 0.001 s
+[11:14:51] [INFO] Loaded script server_scripts:appliedenergistics2/pressing.js in 0.0 s
+[11:14:51] [INFO] Loaded script server_scripts:appliedenergistics2/crafting_storage.js in 0.0 s
+[11:14:51] [INFO] Loaded script server_scripts:Create Recipes/greg.js in 0.001 s
+[11:14:51] [INFO] Loaded script server_scripts:Create Recipes/create_ore_processing.js in 0.001 s
+[11:14:51] [INFO] Loaded script server_scripts:storage_drawers/drawers.js in 0.001 s
+[11:14:51] [INFO] Loaded script server_scripts:storage_drawers/upgrades.js in 0.0 s
+[11:14:51] [INFO] Loaded script server_scripts:elden_ring.js in 0.0 s
+[11:14:51] [INFO] Loaded script server_scripts:open_blocks/elevator.js in 0.0 s
+[11:14:51] [INFO] Loaded script server_scripts:open_blocks/magnets.js in 0.001 s
+[11:14:51] [INFO] Loaded script server_scripts:open_blocks/hang_glider.js in 0.0 s
+[11:14:51] [INFO] Loaded script server_scripts:vein_modification.js in 0.005 s
+[11:14:51] [INFO] Loaded script server_scripts:tool_belt/recipes.js in 0.0 s
+[11:14:51] [INFO] Loaded script server_scripts:sophisticated_backpacks/upgrades.js in 0.001 s
+[11:14:51] [INFO] Loaded script server_scripts:sophisticated_backpacks/backpacks.js in 0.001 s
+[11:14:51] [INFO] Loaded script server_scripts:building_gadgets/gadgets.js in 0.0 s
+[11:14:51] [INFO] Loaded script server_scripts:kubejs_edits_custom.js in 0.002 s
+[11:14:51] [INFO] Loaded script server_scripts:vanilla/mob_drops.js in 0.0 s
+[11:14:51] [INFO] Loaded script server_scripts:vanilla/loot_drops.js in 0.0 s
+[11:14:51] [INFO] Loaded script server_scripts:charcoal.js in 0.0 s
+[11:14:51] [INFO] Loaded script server_scripts:architects_palette.js in 0.001 s
+[11:14:51] [INFO] Loaded script server_scripts:crafting_station/recipes.js in 0.0 s
+[11:14:51] [INFO] Loaded script server_scripts:recipe_removals.js in 0.0 s
+[11:14:51] [INFO] Loaded script server_scripts:xtones.js in 0.001 s
+[11:14:51] [INFO] Loaded script server_scripts:tags/items.js in 0.0 s
+[11:14:51] [INFO] Loaded script server_scripts:tags/ae2.js in 0.0 s
+[11:14:51] [INFO] Loaded script server_scripts:tags/blocks.js in 0.0 s
+[11:14:51] [INFO] Loaded script server_scripts:tags/gregtech.js in 0.0 s
+[11:14:51] [INFO] Loaded 48/48 KubeJS server scripts in 0.156 s with 0 errors and 0 warnings
+[11:14:51] [INFO] Scripts loaded
+[11:14:51] [INFO] Initializing recipe event...
+[11:14:51] [INFO] [minecraft:fluid] Found 481 tags, added 4 objects, removed 5 objects
+[11:14:51] [INFO] [minecraft:item] Found 4703 tags, added 24 objects, removed 5 objects
+[11:14:57] [INFO] Processing recipes...
+[11:14:57] [INFO] Found 50245 recipes in 939.4 ms
+[11:14:58] [ERROR] ! elden_ring.js#4: Failed to create recipe for type 'kubejs:shaped': ItemStack 'result' can't be empty!
+[11:14:58] [ERROR] ! elden_ring.js#10: Failed to create recipe for type 'kubejs:shaped': ItemStack 'result' can't be empty!
+[11:14:58] [ERROR] ! elden_ring.js#17: Failed to create recipe for type 'kubejs:shaped': ItemStack 'result' can't be empty!
+[11:14:59] [INFO] Posted recipe events in 1.090 s
+[11:14:59] [WARN] Error parsing recipe create:kjs/b913epj5q9h33npb4c4x3gxy7[create:milling]: {"type":"create:milling","results":[{"fluid":"gtceu:rose_quartz_dust","amount":1000}],"ingredients":[{"tag":"forge:gems/rose_quartz"}],"processingTime":100}: Invalid empty fluid 'gtceu:rose_quartz_dust'
+[11:14:59] [WARN] Error parsing recipe gtceu:forming_press/printed_calculation_circuit[gtceu:forming_press]: {"type":"gtceu:forming_press","inputs":{"item":[{"content":{"type":"gtceu:sized","count":1,"ingredient":{"tag":"forge:plates/certus_quartz"}},"chance":10000,"maxChance":10000,"tierChanceBoost":0},{"content":{"type":"gtceu:sized","count":1,"ingredient":{"item":"ae2:calculation_processor_press"}},"chance":0,"maxChance":10000,"tierChanceBoost":0}]},"outputs":{"item":[{"content":{"type":"gtceu:sized","count":1,"ingredient":{"item":"ae2:printed_calculation_processor"}},"chance":10000,"maxChance":10000,"tierChanceBoost":0}]}}: No key duration in MapLike[{"type":"gtceu:forming_press","inputs":{"item":[{"content":{"type":"gtceu:sized","count":1,"ingredient":{"tag":"forge:plates/certus_quartz"}},"chance":10000,"maxChance":10000,"tierChanceBoost":0},{"content":{"type":"gtceu:sized","count":1,"ingredient":{"item":"ae2:calculation_processor_press"}},"chance":0,"maxChance":10000,"tierChanceBoost":0}]},"outputs":{"item":[{"content":{"type":"gtceu:sized","count":1,"ingredient":{"item":"ae2:printed_calculation_processor"}},"chance":10000,"maxChance":10000,"tierChanceBoost":0}]}}]
+[11:14:59] [WARN] Error parsing recipe create:kjs/8q075j0imtpwdkzcyt6ejpgqo[create:milling]: {"type":"create:milling","results":[{"fluid":"minecraft:4x","amount":1000}],"ingredients":[{"fluid":"minecraft:empty","nbt":{},"amount":0}],"processingTime":100}: Invalid empty fluid 'minecraft:empty'
+[11:14:59] [WARN] Error parsing recipe create:kjs/882hr2v7ng0nv9d87gmud1d8n[create:milling]: {"type":"create:milling","results":[{"fluid":"minecraft:2x","amount":1000}],"ingredients":[{"fluid":"minecraft:empty","nbt":{},"amount":0}],"processingTime":100}: Invalid empty fluid 'minecraft:empty'
+[11:14:59] [WARN] Error parsing recipe minecraft:kjs/gtceu_lv_item_magnet[kubejs:shapeless]: {"type":"minecraft:crafting_shapeless","result":{"item":"gtceu:lv_item_magnet","count":1},"ingredients":[[]]}: Item array cannot be empty, at least one item must be defined
+[11:14:59] [WARN] Error parsing recipe minecraft:kjs/gtceu_hv_item_magnet[kubejs:shapeless]: {"type":"minecraft:crafting_shapeless","result":{"item":"gtceu:hv_item_magnet","count":1},"ingredients":[[]]}: Item array cannot be empty, at least one item must be defined
+[11:15:00] [INFO] Added 1313 recipes, removed 885 recipes, modified 173 recipes, with 9 failed recipes in 1.010 s
+[11:15:00] [INFO] Server resource reload complete!

@@ -52,3 +52,26 @@ CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.10.3, v
 [10:46:20] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/starbuncle_cyan.png
 [10:49:32] [Render thread/INFO] [JourneymapClient] Mapping halted in /home/bigh/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/NeoGreg/minecraft/journeymap/data/mp/offline/minecraft:overworld
 [10:49:34] [Server thread/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
+[11:15:00] [Server thread/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
+[11:15:14] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from /home/bigh/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/NeoGreg/minecraft/journeymap/data/sp/New World/waypoints
+[11:15:14] [Render thread/INFO] [JourneymapClient] Mapping started in /home/bigh/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/NeoGreg/minecraft/journeymap/data/sp/New World/overworld. Memory: 4096MB total, 849MB free 
+[11:28:34] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/anim_block.png
+[11:29:39] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/anim_block.png
+[11:29:48] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/drygmy_brown.png
+[11:29:52] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/anim_block.png
+[11:30:11] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/drygmy_brown.png
+[11:30:20] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/anim_block.png
+[11:31:18] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/drygmy_brown.png
+[11:34:59] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/starbuncle_purple.png
+[11:34:59] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/starbuncle_red.png
+[11:35:15] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/starbuncle_green.png
+[12:58:45] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/drygmy_brown.png
+[13:24:01] [Render thread/WARN] [JMLogger] Can't get entityTexture for minecraft:textures/entity_icon/villager/computer_scientist.png
+[13:24:01] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/whirlisprig_summer.png
+[13:24:23] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/wilden_guardian.png
+[13:25:16] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/starbuncle_light_gray.png
+[13:25:16] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/starbuncle_yellow.png
+[13:26:18] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/starbuncle_black.png
+[13:26:18] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/starbuncle_magenta.png
+[13:45:38] [Render thread/INFO] [JourneymapClient] Mapping halted in /home/bigh/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/NeoGreg/minecraft/journeymap/data/mp/offline/minecraft:overworld
+[13:45:41] [Server thread/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
