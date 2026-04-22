@@ -1,0 +1,14 @@
+{
+	"shown_reasons": {
+		"MissingUnsupportedDependencies": true,
+		"Create6Addons": true
+	},
+	"privacy": {
+		"accepted_privacy_info": "5 (2026-02-09)"
+	},
+	"analysis": {
+		"jdeps": {
+			"include_nested": true
+		}
+	}
+}

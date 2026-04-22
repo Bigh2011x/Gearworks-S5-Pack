@@ -1,0 +1,18 @@
+filename = 'solstick-1.0.2.jar'
+name = 'Spice of Life: Stick Edition'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'solstick-1.21.1-1.0.2.jar'
+
+[download]
+hash = '62375d2f145dfdde3a7b316893a298df5215963f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7918789
+project-id = 1479771

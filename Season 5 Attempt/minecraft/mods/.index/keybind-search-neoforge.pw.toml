@@ -1,0 +1,18 @@
+filename = 'keybindsearch-1.0.0.jar'
+name = 'Keybind Search (NeoForge)'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Keybind Search (NeoForge) 1.0.0'
+
+[download]
+hash = '9c4c026e63b9be8cd82e2e5791cd658fbe876604'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6908472
+project-id = 1331324
