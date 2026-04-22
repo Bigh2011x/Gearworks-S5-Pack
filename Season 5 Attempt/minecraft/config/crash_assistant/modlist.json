@@ -186,6 +186,14 @@
     "curseForgeHash": 3604913290,
     "modrinthHash": "558bc3dfee4d6e5fd7a3d7c794bb01df1aff40e9"
   },
+  "CraterLib-Neoforge-1.21-3.1.1.jar": {
+    "jarName": "CraterLib-Neoforge-1.21-3.1.1.jar",
+    "modId": "craterlib",
+    "name": "CraterLib",
+    "version": "3.1.1",
+    "curseForgeHash": 895318799,
+    "modrinthHash": "17a164b323369f3e0636737fab0ce58a00d65bc9"
+  },
   "Create Encased-1.21.1-1.8-ht2.jar": {
     "jarName": "Create Encased-1.21.1-1.8-ht2.jar",
     "modId": "createcasing",
@@ -482,6 +490,22 @@
     "curseForgeHash": 4138408898,
     "modrinthHash": "459b5f4c7297b2f7649d43137f3e5a069b69b707"
   },
+  "ftb-jei-extras-21.1.7.jar": {
+    "jarName": "ftb-jei-extras-21.1.7.jar",
+    "modId": "ftbjeiextras",
+    "name": "FTB Jei Extras",
+    "version": "21.1.7",
+    "curseForgeHash": 1577462223,
+    "modrinthHash": "ef01126201a805991bbfe5351cff7d0a9e3a077b"
+  },
+  "ftb-library-neoforge-2101.1.31.jar": {
+    "jarName": "ftb-library-neoforge-2101.1.31.jar",
+    "modId": "ftblibrary",
+    "name": "FTB Library",
+    "version": "2101.1.31",
+    "curseForgeHash": 2049429281,
+    "modrinthHash": "686d4e784c28c14f7760cc22b2de6a8573b56b74"
+  },
   "fusion-1.2.12-neoforge-mc1.21.1.jar": {
     "jarName": "fusion-1.2.12-neoforge-mc1.21.1.jar",
     "modId": "fusion",
@@ -562,6 +586,14 @@
     "curseForgeHash": 828156772,
     "modrinthHash": "27d0d85e7e32e926fc3664ab6815df5cdabb7941"
   },
+  "jei_integration_reborn-1.0.2.jar": {
+    "jarName": "jei_integration_reborn-1.0.2.jar",
+    "modId": "jei_integration_reborn",
+    "name": "JEI Integration Reborn",
+    "version": "1.0.2",
+    "curseForgeHash": 4147498253,
+    "modrinthHash": "56b0d1304938e243a7a979983c58c3004b955c95"
+  },
   "justzoom_neoforge_2.1.0_MC_1.21.1.jar": {
     "jarName": "justzoom_neoforge_2.1.0_MC_1.21.1.jar",
     "modId": "justzoom",
@@ -569,6 +601,22 @@
     "version": "2.1.0",
     "curseForgeHash": 927338680,
     "modrinthHash": "328da50972fa693b8e6f337d4a9560d4a6170ac3"
+  },
+  "keybindbundles-1.3.1.jar": {
+    "jarName": "keybindbundles-1.3.1.jar",
+    "modId": "keybindbundles",
+    "name": "KeyBind Bundles",
+    "version": "1.3.1",
+    "curseForgeHash": 3953971025,
+    "modrinthHash": "f79e5ec268c784ef8eb0e3756602da7ea0ca1c3c"
+  },
+  "keybindsearch-1.0.0.jar": {
+    "jarName": "keybindsearch-1.0.0.jar",
+    "modId": "keybindsearch",
+    "name": "Keybind Search",
+    "version": "1.0.0",
+    "curseForgeHash": 936176039,
+    "modrinthHash": "9c4c026e63b9be8cd82e2e5791cd658fbe876604"
   },
   "Kiwi-1.21.1-NeoForge-15.8.3.jar": {
     "jarName": "Kiwi-1.21.1-NeoForge-15.8.3.jar",
@@ -855,6 +903,14 @@
     "curseForgeHash": 1771755239,
     "modrinthHash": "127e4a3e699dafebc512e1fa7983f245b49cb420"
   },
+  "SimpleDiscordLink-Universal-3.4.1.jar": {
+    "jarName": "SimpleDiscordLink-Universal-3.4.1.jar",
+    "modId": "sdlink",
+    "name": "Simple Discord Link",
+    "version": "3.4.1",
+    "curseForgeHash": 1651386539,
+    "modrinthHash": "c53f4d0f5216fb4c37eada79f9d1f5baf20904b1"
+  },
   "sliceanddice-forge-4.2.4.jar": {
     "jarName": "sliceanddice-forge-4.2.4.jar",
     "modId": "sliceanddice",
@@ -934,6 +990,14 @@
     "version": "1.21.1-1.5.1",
     "curseForgeHash": 2441278482,
     "modrinthHash": "a5ac35ccb902231047709530a5708fb71dc3e3b5"
+  },
+  "spark-1.10.124-neoforge.jar": {
+    "jarName": "spark-1.10.124-neoforge.jar",
+    "modId": "spark",
+    "name": "spark",
+    "version": "1.10.124",
+    "curseForgeHash": 3447435049,
+    "modrinthHash": "9430cc2ab64ff89d698be593769fb9f9ee4efae6"
   },
   "spelunkers_charm-5.0.5.jar": {
     "jarName": "spelunkers_charm-5.0.5.jar",

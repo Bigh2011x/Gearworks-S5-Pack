@@ -1,11 +1,11 @@
 -----------------------------------------------------------------------------------
-DateTime: 22.04.2026 19:06:10:150 +01:00; PID: 16235
+DateTime: 22.04.2026 20:05:36:291 +01:00; PID: 17318
 This file contains the stderr stream of the Minecraft process logged to a file.
 It does not include stdout or log (log4j) messages to avoid performance impact.
 -----------------------------------------------------------------------------------
-[19:07:15:638] [STDERR]: WARNING: A restricted method in java.lang.foreign.Linker has been called
-[19:07:15:638] [STDERR]: WARNING: java.lang.foreign.Linker::downcallHandle has been called by module ars_nouveau
-[19:07:15:639] [STDERR]: WARNING: Use --enable-native-access=ars_nouveau to avoid a warning for this module
-[19:07:15:639] [STDERR]: 
-[19:07:15:742] [STDERR]: Apr 22, 2026 7:07:15 PM org.apache.lucene.ars_nouveau.internal.vectorization.VectorizationProvider lookup
-[19:07:15:742] [STDERR]: WARNING: Java vector incubator module is not readable. For optimal vector performance, pass '--add-modules jdk.incubator.vector' to enable Vector API.
+[20:07:17:126] [STDERR]: WARNING: A restricted method in java.lang.foreign.Linker has been called
+[20:07:17:126] [STDERR]: WARNING: java.lang.foreign.Linker::downcallHandle has been called by module ars_nouveau
+[20:07:17:126] [STDERR]: WARNING: Use --enable-native-access=ars_nouveau to avoid a warning for this module
+[20:07:17:126] [STDERR]: 
+[20:07:17:250] [STDERR]: Apr 22, 2026 8:07:17 PM org.apache.lucene.ars_nouveau.internal.vectorization.VectorizationProvider lookup
+[20:07:17:250] [STDERR]: WARNING: Java vector incubator module is not readable. For optimal vector performance, pass '--add-modules jdk.incubator.vector' to enable Vector API.

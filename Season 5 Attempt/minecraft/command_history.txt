@@ -15,3 +15,8 @@
 /tick query
 /sable debug udp_test
 /create debuginfo
+/damagePart ALL -500
+/kill @a
+/reloadbot
+/kill @s
+/reloadbot

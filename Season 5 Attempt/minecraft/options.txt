@@ -87,6 +87,8 @@ panoramaScrollSpeed:1.0
 telemetryOptInExtra:false
 onboardAccessibility:false
 menuBackgroundBlurriness:5
+key_key.keybindbundles.open_radial_menu:key.keyboard.left.alt
+key_key.keybindbundles.open_screen:key.keyboard.unknown
 key_key.attack:key.mouse.left
 key_key.use:key.mouse.right
 key_key.forward:key.keyboard.w
