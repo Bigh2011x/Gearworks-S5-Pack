@@ -1,0 +1,11 @@
+/c2me notick
+/weather rain
+/tick sprint 3d
+/time setd ay
+/time set day
+/tick rate 500
+/tick rate 5000
+/tick rate 50000
+/tick rate 10000
+/summon minecraft:pig
+/tick rate 20

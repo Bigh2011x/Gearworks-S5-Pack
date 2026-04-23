@@ -1,7 +1,0 @@
-[
-  {"version":1},
-  {"ingredient":{"id":"firstaid:bandage"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"firstaid:plaster"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"toughasnails:thermoregulator"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"toughasnails:thermometer"},"type":"item_stack","bookmarkType":"INGREDIENT"}
-]
