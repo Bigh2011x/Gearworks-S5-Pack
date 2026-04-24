@@ -1,0 +1,21 @@
+filename = 'cmpackagecouriers-neoforge-2.2.2.jar'
+name = 'Create More: Package Couriers'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'cmpackagecouriers-neoforge-2.2.2.jar'
+
+[download]
+hash = '53fb36c3fe6c0224244869e8853df9a062ddbda1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7925568
+project-id = 1319223
+
+[[x-prismlauncher-dependencies]]
+addonId = '328085'
+type = 'REQUIRED'

@@ -1,0 +1,21 @@
+filename = 'mailrail-1.0.0.jar'
+name = 'Create: Mail Rail'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'mailrail-1.0.0.jar'
+
+[download]
+hash = 'de653c650ae1e5f73ea9df1c496182451dc6e92d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7451315
+project-id = 1427330
+
+[[x-prismlauncher-dependencies]]
+addonId = '328085'
+type = 'REQUIRED'

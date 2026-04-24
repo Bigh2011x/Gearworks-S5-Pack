@@ -1,8 +1,3 @@
-/register OscarSmells OscarSmells
-/login OscarSmells
-/gamemode creative
-/reload_discord_chat_mod_config
-/reloadembeds
 /reloadbot
 /login OscarSmells
 /reload_discord_chat_mod_config
@@ -48,3 +43,8 @@
 /cyall
 /login OscarSmells
 /time set day
+/login OscarSmells
+/colorwheel enableFallbackMode on
+/colorwheel enableFallbackMode off
+/time set day
+/time set night

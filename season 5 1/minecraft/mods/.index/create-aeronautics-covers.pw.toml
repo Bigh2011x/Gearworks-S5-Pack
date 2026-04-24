@@ -1,0 +1,33 @@
+filename = 'aeronauticscovers-1.21.1-NeoForge-1.0.1.jar'
+name = 'Create Aeronautics: Covers'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'aeronauticscovers-1.21.1-NeoForge-1.0.1.jar'
+
+[download]
+hash = 'c4404a98d85c75e5e80ace462c3ed1bdf0b1c93e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7971997
+project-id = 1518758
+
+[[x-prismlauncher-dependencies]]
+addonId = '238222'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1140577'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '328085'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '676721'
+type = 'REQUIRED'
