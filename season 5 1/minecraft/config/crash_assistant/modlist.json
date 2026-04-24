@@ -37,6 +37,30 @@
     "curseForgeHash": 418634412,
     "modrinthHash": "6ca11d3cc136bf69bb8f4d56982481eb85b5100b"
   },
+  "bclib-21.0.20.jar": {
+    "jarName": "bclib-21.0.20.jar",
+    "modId": "bclib",
+    "name": "BCLib",
+    "version": "21.0.20",
+    "curseForgeHash": 1571426341,
+    "modrinthHash": "ddeb239d00fe5ece6352778726e4f599c7f20b49"
+  },
+  "BetterEnd-21.0.24.jar": {
+    "jarName": "BetterEnd-21.0.24.jar",
+    "modId": "betterend",
+    "name": "Better End",
+    "version": "21.0.24",
+    "curseForgeHash": 315888363,
+    "modrinthHash": "a4344efa302c04ab11fa5313032836c662fb540c"
+  },
+  "BetterNether-21.0.19.jar": {
+    "jarName": "BetterNether-21.0.19.jar",
+    "modId": "betternether",
+    "name": "Better Nether",
+    "version": "21.0.19",
+    "curseForgeHash": 1269269578,
+    "modrinthHash": "c2832f94bbea4471cfda71c574321666e13ad606"
+  },
   "biolith-neoforge-3.0.10.jar": {
     "jarName": "biolith-neoforge-3.0.10.jar",
     "modId": "biolith",
@@ -213,14 +237,6 @@
     "curseForgeHash": 933317947,
     "modrinthHash": "418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4"
   },
-  "discord_chat_mod-neoforge-1.21.1-2.6.2.jar": {
-    "jarName": "discord_chat_mod-neoforge-1.21.1-2.6.2.jar",
-    "modId": "discord_chat_mod",
-    "name": "Discord \u0026 Chat Images",
-    "version": "2.6.2",
-    "curseForgeHash": 1148552738,
-    "modrinthHash": "f9d0ef0105211799676c0e3fd6f145dbe77d5f96"
-  },
   "DnDesires-1.21.1-2.2d-BETA.jar": {
     "jarName": "DnDesires-1.21.1-2.2d-BETA.jar",
     "modId": "dndesires",
@@ -236,6 +252,14 @@
     "version": "1.21.1-beta-3.0.24",
     "curseForgeHash": 2316424033,
     "modrinthHash": "eacbdeabe5271b46aacb4c15d9a44915ab953831"
+  },
+  "Emojiful-Neoforge-1.21-5.2.2-all.jar": {
+    "jarName": "Emojiful-Neoforge-1.21-5.2.2-all.jar",
+    "modId": "emojiful",
+    "name": "Emojiful",
+    "version": "5.2.2",
+    "curseForgeHash": 1294475247,
+    "modrinthHash": "268e955adb7eecf60b0c182c5ce865e464f289e7"
   },
   "escalated-1.2.1+create.6.0.8-mc.1.21.1-neoforge.jar": {
     "jarName": "escalated-1.2.1+create.6.0.8-mc.1.21.1-neoforge.jar",
@@ -293,6 +317,14 @@
     "curseForgeHash": 1004440140,
     "modrinthHash": "b95318c14ef20bd24886480d7640a5eca6aa6cec"
   },
+  "grieflogger-1.2.9-1.21.1-neoforge.jar": {
+    "jarName": "grieflogger-1.2.9-1.21.1-neoforge.jar",
+    "modId": "grieflogger",
+    "name": "GriefLogger",
+    "version": "1.2.9-1.21.1",
+    "curseForgeHash": 1211954791,
+    "modrinthHash": "ba6ec8e601aeb92aeadf1c364192f7bad2e2b349"
+  },
   "interiors-1.21.1-neoforge-0.6.1.jar": {
     "jarName": "interiors-1.21.1-neoforge-0.6.1.jar",
     "modId": "interiors",
@@ -300,6 +332,14 @@
     "version": "0.6.1",
     "curseForgeHash": 3220009028,
     "modrinthHash": "a558777ef4510da2f4d32ca3da6ac7384c9a9940"
+  },
+  "iris-flywheel-compat-NeoForge-2.2.0.jar": {
+    "jarName": "iris-flywheel-compat-NeoForge-2.2.0.jar",
+    "modId": "irisflw",
+    "name": "Iris Flywheel Compat",
+    "version": "2.2.0",
+    "curseForgeHash": 1763981633,
+    "modrinthHash": "68efdb7a2bc591c5b74dd1c384a799765140ef5f"
   },
   "iris-neoforge-1.8.12+mc1.21.1.jar": {
     "jarName": "iris-neoforge-1.8.12+mc1.21.1.jar",
@@ -385,6 +425,14 @@
     "jarName": "kotlinforforge-5.11.0-all.jar",
     "curseForgeHash": 563386165,
     "modrinthHash": "4d83e8a8e8cb06b306d2cea1e903680fe513f1f3"
+  },
+  "lios_overhauled_villages-0.1.1.jar": {
+    "jarName": "lios_overhauled_villages-0.1.1.jar",
+    "modId": "lios_overhauled_villages",
+    "name": "Lio\u0027s Overhauled Villages",
+    "version": "0.1.1",
+    "curseForgeHash": 4029002307,
+    "modrinthHash": "714564ed019fa8d115d404e779b2937e56e2e849"
   },
   "lithium-neoforge-0.15.3+mc1.21.1.jar": {
     "jarName": "lithium-neoforge-0.15.3+mc1.21.1.jar",
@@ -618,6 +666,22 @@
     "curseForgeHash": 3571140483,
     "modrinthHash": "7be6d8b24f3120fa6a2520c32a2e6c8c4254322c"
   },
+  "worldweaver-21.0.18.jar": {
+    "jarName": "worldweaver-21.0.18.jar",
+    "modId": "wover",
+    "name": "WorldWeaver",
+    "version": "21.0.18",
+    "curseForgeHash": 538540091,
+    "modrinthHash": "814e3b242adc88131c521f80f50c0a8c7cb9f527"
+  },
+  "wunderlib-21.0.10.jar": {
+    "jarName": "wunderlib-21.0.10.jar",
+    "modId": "wunderlib",
+    "name": "WunderLib",
+    "version": "21.0.10",
+    "curseForgeHash": 1064277113,
+    "modrinthHash": "330ab9d6d8d92a9337e97ef22e64f83fe2d4bf2a"
+  },
   "xaerominimap-neoforge-1.21.1-25.3.10.jar": {
     "jarName": "xaerominimap-neoforge-1.21.1-25.3.10.jar",
     "modId": "xaerominimap",
@@ -641,6 +705,70 @@
     "version": "87.0.0",
     "curseForgeHash": 767515430,
     "modrinthHash": "7132c346103d75a7c84da64b35b92e3a6f1ce3da"
+  },
+  "YungsApi-1.21.1-NeoForge-5.1.6.jar": {
+    "jarName": "YungsApi-1.21.1-NeoForge-5.1.6.jar",
+    "modId": "yungsapi",
+    "name": "YUNG\u0027s API",
+    "version": "1.21.1-NeoForge-5.1.6",
+    "curseForgeHash": 3632489824,
+    "modrinthHash": "e1c394779fb9e038e4f7a1b4558d0432607d263b"
+  },
+  "YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar": {
+    "jarName": "YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+    "modId": "betterdeserttemples",
+    "name": "YUNG\u0027s Better Desert Temples",
+    "version": "1.21.1-NeoForge-4.1.5",
+    "curseForgeHash": 2217761040,
+    "modrinthHash": "90529257dbd92558998c65178294bc7b2fd16a64"
+  },
+  "YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar": {
+    "jarName": "YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+    "modId": "betterdungeons",
+    "name": "YUNG\u0027s Better Dungeons",
+    "version": "1.21.1-NeoForge-5.1.4",
+    "curseForgeHash": 3658552071,
+    "modrinthHash": "73a660c13063450e555e5e2c015ae24d606b32b4"
+  },
+  "YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar": {
+    "jarName": "YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
+    "modId": "betterjungletemples",
+    "name": "YUNG\u0027s Better Jungle Temples",
+    "version": "1.21.1-NeoForge-3.1.2",
+    "curseForgeHash": 3593944726,
+    "modrinthHash": "d6b7ce6cf351b09cbd23147ff166c35cfdc572e8"
+  },
+  "YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar": {
+    "jarName": "YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+    "modId": "bettermineshafts",
+    "name": "YUNG\u0027s Better Mineshafts",
+    "version": "1.21.1-NeoForge-5.1.1",
+    "curseForgeHash": 2841068103,
+    "modrinthHash": "6a14e1d8201f068ca87ef8333e471c5378955906"
+  },
+  "YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar": {
+    "jarName": "YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+    "modId": "betteroceanmonuments",
+    "name": "YUNG\u0027s Better Ocean Monuments",
+    "version": "1.21.1-NeoForge-4.1.2",
+    "curseForgeHash": 3516411549,
+    "modrinthHash": "fba629defdb92ad99ec4f411895afb6e19555a18"
+  },
+  "YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar": {
+    "jarName": "YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+    "modId": "betterstrongholds",
+    "name": "YUNG\u0027s Better Strongholds",
+    "version": "1.21.1-NeoForge-5.1.3",
+    "curseForgeHash": 3502173629,
+    "modrinthHash": "5d06a5850af7c577612d4592706a8e156bbe1cbf"
+  },
+  "YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar": {
+    "jarName": "YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
+    "modId": "betterwitchhuts",
+    "name": "YUNG\u0027s Better Witch Huts",
+    "version": "1.21.1-NeoForge-4.1.1",
+    "curseForgeHash": 102724868,
+    "modrinthHash": "bbf6c91f4a2829c58bc024eaaab821986bc93de6"
   },
   "Zeta-1.1-39.jar": {
     "jarName": "Zeta-1.1-39.jar",

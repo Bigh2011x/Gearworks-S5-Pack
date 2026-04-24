@@ -1,11 +1,50 @@
-/c2me notick
-/weather rain
-/tick sprint 3d
-/time setd ay
+/register OscarSmells OscarSmells
+/login OscarSmells
+/gamemode creative
+/reload_discord_chat_mod_config
+/reloadembeds
+/reloadbot
+/login OscarSmells
+/reload_discord_chat_mod_config
+/reload
+/reload_discord_chat_mod_config
+/reloadbot
 /time set day
-/tick rate 500
-/tick rate 5000
-/tick rate 50000
+/tp @s mikokokokok
+/reloadbot
+/reload_discord_chat_mod_config
+/login OscarSmells
+/kick @a
+/login OscarSmells
+/reload_discord_chat_mod_config
+/time set day
+/discordverify
+/reload_discord_chat_mod_config
+/time set day
+/tp @s mikokokokok
+/reloadbot
+/tp @s mikokokokok
+/weather clear
+/time set day
 /tick rate 10000
-/summon minecraft:pig
 /tick rate 20
+/tick rate 10000
+/login OscarSmells
+/tick rate 20
+/time set day
+/login OscarSmells
+/time set day
+/login OscarSmells
+/time set day
+/weather clear
+/time set day
+/clear broBACKOFF minecraft:slime_ball
+/clear FBELIKOFF minecraft:slime_ball
+/clear broBACKOFF minecraft:slime_ball
+/clear FBELIKOFF minecraft:slime_ball
+/time set day
+/kill @e[type=!minecraft:player]
+/time set day
+/cyall
+/login OscarSmells
+/time set day

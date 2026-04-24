@@ -59,8 +59,14 @@
     "entity": true,
     "entity_variant": true
   },
+  "betternether": {
+    "plant_growth": true
+  },
   "jademoddedentities": {
     "villager": true
+  },
+  "betterend": {
+    "plant_growth": true
   },
   "supplementaries": {
     "hat_stand": true

@@ -1,0 +1,1 @@
+{"jarName":"Emojiful-Neoforge-1.21-5.2.2-all.jar","modId":"emojiful","name":"Emojiful","version":"5.2.2","mixinConfigs":["emojiful.mixins.json"],"jarJarMods":[{"jarName":"yamlbeans-1.17.jar","mixinConfigs":[],"jarJarMods":[],"pathFromJarJar":"/META-INF/jarjar/"}],"curseForgeHash":1294475247,"modrinthHash":"268e955adb7eecf60b0c182c5ce865e464f289e7"}

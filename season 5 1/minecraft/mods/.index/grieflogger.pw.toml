@@ -1,0 +1,25 @@
+filename = 'grieflogger-1.2.9-1.21.1-neoforge.jar'
+name = 'GriefLogger'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.9-1.21.1'
+
+[download]
+hash = 'e8d3830fb8fa4e76948999a7344f2a4a7c2a923c912bcff9ef8be1f8bbfd82d3b2dd79537ddfdb4adf40ef888619d8d7400872975955306f2d4da334ffc331ad'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8oGVUFuX/versions/Rmp3tvQg/grieflogger-1.2.9-1.21.1-neoforge.jar'
+
+[update.modrinth]
+mod-id = '8oGVUFuX'
+version = 'Rmp3tvQg'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LN9BxssP'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lhGA9TYQ'
+type = 'REQUIRED'
