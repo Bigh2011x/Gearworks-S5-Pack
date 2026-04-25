@@ -1,5 +1,8 @@
 [
   {"version":1},
+  {"ingredient":{"id":"sereneseasons:calendar"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"sophisticatedbackpacks:backpack","components":{"sophisticatedcore:render_info_tag":{"upgradeItems":[{}]},"sophisticatedcore:storage_uuid":[764201288,-528135735,-1455848020,419941511],"sophisticatedcore:number_of_inventory_slots":27,"sophisticatedcore:number_of_upgrade_slots":1}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"brewinandchewin:beer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:iron_nugget"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"createdeco:iron_coinstack"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"createdeco:iron_coin"},"type":"item_stack","bookmarkType":"INGREDIENT"},
@@ -13,8 +16,6 @@
   {"ingredient":{"id":"sophisticatedbackpacks:backpack"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"betterend:helix_tree_chest"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"expandeddelight:asparagus"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"toughasnails:water_purifier"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"toughasnails:purified_water_bottle"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"create:iron_sheet"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"tfmg:hardened_planks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"quark:blossom_planks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
