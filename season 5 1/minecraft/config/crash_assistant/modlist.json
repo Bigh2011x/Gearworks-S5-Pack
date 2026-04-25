@@ -77,6 +77,14 @@
     "curseForgeHash": 3426477520,
     "modrinthHash": "e04f50b55f1a917956a038c10066118264e4e170"
   },
+  "BrewinAndChewin-neoforge-4.4.2+1.21.1.jar": {
+    "jarName": "BrewinAndChewin-neoforge-4.4.2+1.21.1.jar",
+    "modId": "brewinandchewin",
+    "name": "Brewin\u0027 And Chewin\u0027",
+    "version": "4.4.2",
+    "curseForgeHash": 211714237,
+    "modrinthHash": "c01b9e39b4c116c3ce4b1b66f87c1921997337a5"
+  },
   "c2me-neoforge-mc1.21.1-0.3.0+alpha.0.91.jar": {
     "jarName": "c2me-neoforge-mc1.21.1-0.3.0+alpha.0.91.jar",
     "modId": "c2me",
@@ -172,6 +180,14 @@
     "version": "1.11.8",
     "curseForgeHash": 3604913290,
     "modrinthHash": "558bc3dfee4d6e5fd7a3d7c794bb01df1aff40e9"
+  },
+  "cratedelight-25.09.22-1.21-neoforge.jar": {
+    "jarName": "cratedelight-25.09.22-1.21-neoforge.jar",
+    "modId": "cratedelight",
+    "name": "Crate Delight",
+    "version": "25.09.22-1.21-neoforge",
+    "curseForgeHash": 3440910288,
+    "modrinthHash": "3cfe8feb1962e0b69d7a47e44458533489d62e4d"
   },
   "CraterLib-Neoforge-1.21-3.1.1.jar": {
     "jarName": "CraterLib-Neoforge-1.21-3.1.1.jar",
@@ -277,6 +293,14 @@
     "curseForgeHash": 197166410,
     "modrinthHash": "50cafde2da86ee5d881c1fb87f4ff2e1fdb9aa11"
   },
+  "culturaldelights-0.17.8.jar": {
+    "jarName": "culturaldelights-0.17.8.jar",
+    "modId": "culturaldelights",
+    "name": "Cultural Delights",
+    "version": "0.17.8",
+    "curseForgeHash": 2739493077,
+    "modrinthHash": "bf4dee3b2fa3ac023c889b78ec03d87e4afae20f"
+  },
   "curios-neoforge-9.5.1+1.21.1.jar": {
     "jarName": "curios-neoforge-9.5.1+1.21.1.jar",
     "modId": "curios",
@@ -380,6 +404,14 @@
     "version": "2.1.0.0",
     "curseForgeHash": 1004440140,
     "modrinthHash": "b95318c14ef20bd24886480d7640a5eca6aa6cec"
+  },
+  "gravestone-neoforge-1.21.1-1.0.35.jar": {
+    "jarName": "gravestone-neoforge-1.21.1-1.0.35.jar",
+    "modId": "gravestone",
+    "name": "Gravestone Mod",
+    "version": "1.21.1-1.0.35",
+    "curseForgeHash": 4270536792,
+    "modrinthHash": "91f5e2395081ac5f5034ce05f83bcbfca1e3fd5c"
   },
   "grieflogger-1.2.9-1.21.1-neoforge.jar": {
     "jarName": "grieflogger-1.2.9-1.21.1-neoforge.jar",
@@ -537,6 +569,14 @@
     "version": "1.21-2.29.33",
     "curseForgeHash": 2656288867,
     "modrinthHash": "24e720753a7abc80f6673cf957c1e74aed52c084"
+  },
+  "moredelight-25.07.28a-1.21-neoforge.jar": {
+    "jarName": "moredelight-25.07.28a-1.21-neoforge.jar",
+    "modId": "moredelight",
+    "name": "More Delight",
+    "version": "25.07.28a-1.21-neoforge",
+    "curseForgeHash": 1752012173,
+    "modrinthHash": "cd3ecee61c4b642464dcb19330260a747a4e25e4"
   },
   "NoChatRestrictions-NeoForge-MC1.21.11-v1.0.0.jar": {
     "jarName": "NoChatRestrictions-NeoForge-MC1.21.11-v1.0.0.jar",
@@ -738,14 +778,6 @@
     "curseForgeHash": 1920154426,
     "modrinthHash": "9fa5889f7669d1f5f20e658f96cbf31a17c52171"
   },
-  "tan-compat-pack-1.0.0.jar": {
-    "jarName": "tan-compat-pack-1.0.0.jar",
-    "modId": "mr_tan_compatpack",
-    "name": "Tough As Nails - Compatibility Pack",
-    "version": "1.0.0",
-    "curseForgeHash": 2399929644,
-    "modrinthHash": "12e8506f7d7cceb1cd046c5c7a961979ac8811f4"
-  },
   "tectonic-3.0.22-neoforge-21.1.jar": {
     "jarName": "tectonic-3.0.22-neoforge-21.1.jar",
     "modId": "tectonic",
@@ -769,14 +801,6 @@
     "version": "1.2.0",
     "curseForgeHash": 3500859119,
     "modrinthHash": "b520f3687f60a69eb265ff5b9a16759b9e124103"
-  },
-  "ToughAsNails-neoforge-1.21.1-10.1.0.13.jar": {
-    "jarName": "ToughAsNails-neoforge-1.21.1-10.1.0.13.jar",
-    "modId": "toughasnails",
-    "name": "Tough As Nails",
-    "version": "10.1.0.13",
-    "curseForgeHash": 1366609961,
-    "modrinthHash": "38046bbfcd35cb1eb2bd17d9a9c3428b9750a82a"
   },
   "tracks-neoforge-1.21.1-1.0.1.jar": {
     "jarName": "tracks-neoforge-1.21.1-1.0.1.jar",

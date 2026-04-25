@@ -1,30 +1,3 @@
-/reloadbot
-/login OscarSmells
-/reload_discord_chat_mod_config
-/reload
-/reload_discord_chat_mod_config
-/reloadbot
-/time set day
-/tp @s mikokokokok
-/reloadbot
-/reload_discord_chat_mod_config
-/login OscarSmells
-/kick @a
-/login OscarSmells
-/reload_discord_chat_mod_config
-/time set day
-/discordverify
-/reload_discord_chat_mod_config
-/time set day
-/tp @s mikokokokok
-/reloadbot
-/tp @s mikokokokok
-/weather clear
-/time set day
-/tick rate 10000
-/tick rate 20
-/tick rate 10000
-/login OscarSmells
 /tick rate 20
 /time set day
 /login OscarSmells
@@ -48,3 +21,30 @@
 /colorwheel enableFallbackMode off
 /time set day
 /time set night
+/register OscarSmells OscarSmell
+/register OscarSmells OscarSmells
+/chunky radius 3000
+/chunky start
+/chunky continue
+/login OscarSmells
+/chunky continue
+/gamerule playersSleepingPercentage 0
+/grieflogger page 1
+/grieflogger page 0
+/grieflogger page 3
+/grieflogger page 2
+/grieflogger page
+/grieflogger inspect
+/grieflogger lookup user.
+/grieflogger lookup action.place_block
+/grieflogger lookup
+/grieflogger lookup time.1
+/grieflogger lookup time.2d
+/discordverify
+/discord linkings
+/discord linkings link @s
+/discord linkings link Bigh2011x
+/chunky pause
+/msg ThatCuriousDude by eating foods :sob:
+/me poop
+/login OscarSmells
