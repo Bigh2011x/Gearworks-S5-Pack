@@ -1,0 +1,18 @@
+filename = 'locksmith-1.0.3.jar'
+name = "Lucky's Locksmith"
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Locksmith-1.0.3.jar'
+
+[download]
+hash = 'a213c4c2116aa91d75c6f25bdd9593122142b26b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7932024
+project-id = 1302447

@@ -1,0 +1,25 @@
+filename = 'xaerotrainmap-1.0.0.jar'
+name = 'Xaero Train Map'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'xaerotrainmap-1.0.0.jar'
+
+[download]
+hash = '4b9d3a53247b2f3977e32b246be5aeb131504eae'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6702496
+project-id = 1295594
+
+[[x-prismlauncher-dependencies]]
+addonId = '317780'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '328085'
+type = 'REQUIRED'
