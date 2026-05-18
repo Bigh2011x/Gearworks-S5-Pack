@@ -1,19 +1,19 @@
-filename = 'createpropulsionsimulated-1.0.2.jar'
+filename = 'createpropulsion-1.1.3.jar'
 name = 'Create Propulsion: Simulated'
 side = 'server'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'createpropulsionsimulated-1.0.2.jar'
+x-prismlauncher-version-number = '1.1.3'
 
 [download]
-hash = '81232327c9ce1c7783195a68e3b9ebc360b6db27'
+hash = '18601b42a682a35112e2cb1097a13f9ae8fe7fa0'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7976819
+file-id = 8070922
 project-id = 1522736
 
 [[x-prismlauncher-dependencies]]
